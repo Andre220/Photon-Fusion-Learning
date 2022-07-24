@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/102 - Setting Up Scene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
     path: Assets/Scenes/103 - Kinematic.unity
     guid: f8f87a3be71f2d9469be9056b8006935
   m_configObjects: {}
